@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Thi Toán THPT - Thầy Phạm Bảo Anh",
+  "description": "Trang web học tập, rèn luyện toán THPT, trắc nghiệm đúng sai, trả lời ngắn, toán thực tiễn và đề thi tốt nghiệp THPT Quốc Gia môn Toán cùng Thầy Phạm Bảo Anh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
